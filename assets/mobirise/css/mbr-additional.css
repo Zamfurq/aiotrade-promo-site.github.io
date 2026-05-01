@@ -1368,57 +1368,10 @@ a {
 .cid-vilIWdaP1g .mbr-section-btn {
   text-align: left;
 }
-.cid-vilK3BwpYS {
+.cid-vimKMsCW6q {
   padding-top: 2rem;
   padding-bottom: 2rem;
   background-color: #ffffff;
-}
-.cid-vilK3BwpYS .justify-content-center {
-  align-items: center;
-}
-.cid-vilK3BwpYS .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-vilK3BwpYS .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-vilK3BwpYS .item-wrapper {
-  display: flex;
-  margin-left: auto;
-}
-@media (max-width: 767px) {
-  .cid-vilK3BwpYS .item-wrapper {
-    margin-bottom: 1rem;
-  }
-}
-.cid-vilK3BwpYS .mbr-section-btn {
-  padding-left: 1.5rem;
-  text-align: right;
-}
-@media (max-width: 767px) {
-  .cid-vilK3BwpYS .mbr-section-btn {
-    text-align: center;
-    padding-left: 0rem;
-  }
-}
-.cid-vilK3BwpYS .row {
-  align-items: center;
-}
-.cid-vilK3BwpYS .card-text {
-  color: #000000;
-  margin-bottom: 0px;
-  text-align: left;
-}
-@media (max-width: 767px) {
-  .cid-vilK3BwpYS .card-text {
-    text-align: center;
-  }
 }
 .cid-vi5BWhnKTY {
   padding-top: 5rem;
